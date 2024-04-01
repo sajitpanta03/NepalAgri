@@ -1,0 +1,15 @@
+{
+    "liveServer.settings.port": 5501,
+    "workbench.settings.useSplitJSON": true,
+    "json.schemas": [
+    
+    ],
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    }
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+}

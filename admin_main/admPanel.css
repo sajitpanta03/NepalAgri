@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&subset=cyrillic')
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+*{
+  margin:0;
+  padding:0;
+  list-style:none;
+  text-decoration: none;
+}
+
+.sidebar{
+  position: fixed;
+  left:0;
+  width: 250px;
+  height:100%;
+  background: #042331;
+}
+.sidebar header{
+  font-size: 22px;
+  color:white;
+  text-align: center;
+  line-height: 70px;
+  background: #063146;
+  user-select: none;
+}
+.sidebar ul button{
+  cursor: pointer;
+  background-color: #4CAF50;
+  height: 12%;
+  width: 100%;
+  display: block;
+  line-height: 65px;
+  padding-left: 40px;
+  box-sizing: border-box;
+  border-top: solid rgba(255, 255, 255, .1);
+
+}
